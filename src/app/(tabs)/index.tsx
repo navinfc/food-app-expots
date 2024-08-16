@@ -7,7 +7,7 @@ export default function MenuScreen() {
     <View>
       <ScrollView>
         <ProductListItem product={products[0]} />
-        <ProductListItem product={products[6]} />
+        <ProductListItem product={products[5]} />
       </ScrollView>
     </View>
   );
